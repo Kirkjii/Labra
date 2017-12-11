@@ -45,7 +45,7 @@ $conn->close();
 
 
 	
-<IMG STYLE="position:absolute; TOP:46px; LEFT:350px; WIDTH:1000px; HEIGHT: 600px" SRC="graafi.php">
+<IMG STYLE="position:absolute; TOP:46px; LEFT:350px; WIDTH:1000px; HEIGHT: 600px" SRC="graph.php">
 	</h2>
       </div>         
   </section>
