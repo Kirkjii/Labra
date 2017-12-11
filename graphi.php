@@ -58,10 +58,6 @@ $graph->yaxis->scale->SetGrace( 20 , 20 );
 $graph->xaxis->SetPos( 'min' );
 $graph->xaxis->scale->SetDateFormat('H:i');
  
-// Fontti
-//$graph->SetUserFont();
-//$graph->title->SetFont(FF_USERFONT,FS_NORMAL,18);
- 
  // Graphin luominen
 $p1 = new LinePlot($y_axis, $x_axis);
 $p1->mark->SetType(MARK_FILLEDCIRCLE);
