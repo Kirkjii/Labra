@@ -19,7 +19,7 @@ Arduino is running on a Raspberry Pi that has Apache and MySQL servers running. 
 - Temperature sensor KTY81/110
 - Wires, resistors, a condensator and a breadboard
 
-# Presentation video
+# Presentation video (in Finnish)
 [Weather station (YouTube)](https://www.youtube.com/watch?v=NzSwM3K9UbM)
 
 
