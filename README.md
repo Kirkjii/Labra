@@ -11,11 +11,10 @@ Arduino reads data from the sensors via the input pins. The alteration between v
 
 Arduino is running on a Raspberry Pi that has Apache and MySQL servers running. Current temperature and humidity levels are stored in a database and the values are shown on a web page. PHP is used to fetch the values from the database and HTML and CSS are used for the visual layout of the web page. The web page also contains a graph where the temperature can be inspected over the last 24 hours. Additionally, values from the previous day can be checked with a button. The measurements are done once every hour. 
 
-**Programming languages used**
+**Programming languages**
 - Python 3
 - PHP
-- HTML
-- CSS
+- HTML, CSS
 - C++
 
 # Hardware
